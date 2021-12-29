@@ -1,0 +1,21 @@
+/* .bg-button {
+    --tw-bg-opacity: 1;
+    background-color: rgba(107, 114, 128, var(--tw-bg-opacity));
+  } */
+
+body {
+    font-family: 'Nunito', sans-serif;
+    background-color: #FAFCFC;
+}
+
+.bg-button {
+    background-color: #d5e6e6;
+}
+
+.bg-active-button {
+    background-color: #00696E;
+}
+
+.bg-base {
+    background-color: #FAFCFC;
+}
