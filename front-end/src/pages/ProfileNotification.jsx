@@ -1,7 +1,7 @@
 import React from 'react'
 import MobileButton2 from '../components/MobileButton2'
 
-const Notification = () => {
+const ProfileNotification = () => {
     return (
         <div>
             <div className="pt-24 pb-6 px-8">
@@ -23,4 +23,4 @@ const Notification = () => {
     )
 }
 
-export default Notification
+export default ProfileNotification
